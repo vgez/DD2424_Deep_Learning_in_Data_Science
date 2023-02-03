@@ -1,0 +1,7 @@
+Test accuracy: 0.3029 Test loss: 6.476752936643049 lamda: 0 eta: 0.1
+Test accuracy: 0.3975 Test loss: 1.7548429909025764 lamda: 0 eta: 0.001
+Test accuracy: 0.3969 Test loss: 1.8667947382132968 lamda: 0.1 eta: 0.001
+Test accuracy: 0.3791 Test loss: 1.929157683015139 lamda: 1 eta: 0.001
+
+
+Class_template_image exempeltext "fig2. "The  learntWmatrix  visualized  as  class  template  images.   The  net-work was trained with the following parameter settings:nbatch=100,eta=.001,nepochs=40andlambda=0.""
